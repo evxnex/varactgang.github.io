@@ -9,7 +9,7 @@ $(document).ready(function() {
             plink: 'https://www.youtube.com/channel/UCRro1gfrlNZO5dlox02icpQ'
         }, 
 		{
-            name: 'Chxde',
+            name: 'shxck',
             plink: 'http://steamcommunity.com/id/78k'
         },		
 		];    
