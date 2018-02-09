@@ -19,7 +19,15 @@ $(document).ready(function() {
 		{
             name: 'pJunkcode',
             plink: 'http://steamcommunity.com/id/nasawalker'
-        },				
+        },
+		{
+            name: 'Justa',
+            plink: 'http://steamcommunity.com/id/deppresedcunt'
+        },	
+		{
+            name: 'Device',
+            plink: 'https://steamcommunity.com/id/device_'
+        },			
 		];    
 	
     for (var i in plinks) {
