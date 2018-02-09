@@ -3,7 +3,7 @@ body
   background: url(background.gif) no-repeat center center fixed;
   background-size: 100%;
   font-family: Comic Sans MS;
-  color: #A50000;
+  color: #18ddc6;
   text-shadow: 1px 1px 1px rgba(0,0,0,255);
 }
 
@@ -181,20 +181,20 @@ a:hover {
 
     @keyframes colorchange
     {
-      0%   {COLOR: red;}
+      0%   {COLOR: white;}
       25%  {COLOR: yellow;}
       50%  {COLOR: blue;}
       75%  {COLOR: green;}
-      100% {COLOR: red;}
+      100% {COLOR: white;}
 	  
     }
 
     @-webkit-keyframes colorchange /* Safari and Chrome - necessary duplicate */
     {
-      0%   {COLOR: red;}
+      0%   {COLOR: white;}
       25%  {COLOR: yellow;}
       50%  {COLOR: blue;}
       75%  {cOLOR: green;}
-      100% {COLOR: red;}
+      100% {COLOR: white;}
     }
 }
