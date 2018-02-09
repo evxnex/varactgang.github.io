@@ -11,7 +11,15 @@ $(document).ready(function() {
 		{
             name: 'shxck',
             plink: 'http://steamcommunity.com/id/78k'
-        },		
+        },
+		{
+            name: 'GreenStreet',
+            plink: 'http://steamcommunity.com/id/vampireloli'
+        },
+		{
+            name: 'pJunkcode',
+            plink: 'http://steamcommunity.com/id/nasawalker'
+        },				
 		];    
 	
     for (var i in plinks) {
