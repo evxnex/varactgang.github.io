@@ -25,6 +25,10 @@ $(document).ready(function() {
             plink: 'http://steamcommunity.com/id/deppresedcunt'
         },	
 		{
+            name: 'HopDog',
+            plink: 'https://steamcommunity.com/profiles/76561198338452657'
+        },	
+		{
             name: 'Device',
             plink: 'https://steamcommunity.com/id/device_'
         },			
